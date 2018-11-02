@@ -1,7 +1,7 @@
 {
   "name": "s3-upload-progress",
   "description": "A thin wrapper around s3.upload for (easier) progress notifications.",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "author": "Tim Allen <tim@noblesamurai.com>",
   "license": "BSD",
   "main": "./src/index.js",
